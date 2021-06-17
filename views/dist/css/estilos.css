@@ -1,0 +1,21 @@
+
+#lista
+{
+    padding-top:34px;
+}
+
+#fila:hover
+{
+    color: #fff;
+    background-color: #696e6a;
+    border-color: #696e6a;
+    box-shadow: none;
+}
+
+#perfil img
+{
+    display: block;
+    width: 150px;
+    height: 150px;
+    
+}
